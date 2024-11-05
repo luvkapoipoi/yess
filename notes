@@ -1,0 +1,56 @@
+Designing Program
+* Programs must be designed before they are written
+
+Program Develepment Cycle:
+- Design Program
+- Write Code
+- Correct Syntax Errors
+- Test the Program
+- Correct login Errors
+
+* Design is the most important part of a Develepment Cycle
+
+Understand the task that the Program is to Perform
+- Work with customer to get a sense what program is supposed to do
+- Ask questions about the program Details
+- Create one or more software developments
+
+* Determine the steps that must be taken to perform the task
+- Break down required task into series of steps
+- Create an algorithm, listing logical steps that must be taken
+
+PseudoCode: Fake Code
+- informal language that has no syntax Errors
+- not meant to be compiled or executed
+- used to create model program
+  - no need to worry about syntax errors, can focus on program's Design
+  - Can be tranlated directly into actual code in any programming language
+
+Flowcharts
+* Flowchart: diagram that graphically depicts the steps in a a program 
+- Ovals are termminal symbols
+- Parallelorams are input and output symbols
+- Rectangles are processing symbols
+- Symbols are connected by arrows that represent the flow of the program.
+
+Displaying Output with the print fuction
+* print function: displays output on the screem
+ 
+ eg: 
+ >>> print('Hello World') 
+ Hello World
+ >>>
+
+ Chapter 3 Decision Structure and Boolean Logic
+
+ Control Structure
+  - To control flow of the program
+  - 1 condition = 'if'
+  - 2 condition = 'if or else'
+  - 3 condition = 'elif'
+
+Decision Structure
+ - if
+ - if else
+ - elif
+ - nested if else
